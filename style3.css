@@ -1,0 +1,105 @@
+/*css file*/
+
+/*body{
+    background-color: aqua;
+    background-image: url(image/jar.jpg);
+    background-size: cover;
+    width: 600px;
+    height: 600px;
+
+
+}
+
+p{
+color: orangered;
+line-height: 35px;
+font-style: italic;
+font-weight: bold;
+font-size: 20px;
+font-family: Georgia;
+
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table th{
+    background-color: green;
+    padding: 5px;
+    color: aliceblue;
+    border: 2px solid yellow;
+
+}
+
+table td{
+    border: 2px solid yellow;
+    text-align: center;
+}
+
+table tr:nth-child(2n+1){
+    background-color: blue;
+
+}
+ul li{
+    list-style: none;
+    text-align: center;
+    font-size: 30px;
+    color:rgb(255, 255, 255);
+    display: inline-block;
+    background-color: blue;
+    padding: 10px;
+    margin: 0px 5px 0px 5px;
+    border-radius: 10px;
+
+}
+ol li{
+    list-style-type: square;
+}
+
+.one p{
+    color: rgb(52, 165, 86);
+}
+
+#first p{
+    line-height: 15px;
+}
+iframe{
+    size: 200px;
+}
+
+a img {
+    float: right;
+    
+} 
+footer{
+    clear: both;
+    text-align: right;
+}
+.lam{
+    font-family: 'Pacifico', cursive;
+    color: black;
+}
+*/
+/*Mailchimp-form section*/
+
+body{
+    background-image: url(https://static.pexels.com/photos/213399/pexels-photo-213399.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+    
+}
+.one{
+    margin-left: 200px;
+    margin-top: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: red;
+    border: none;
+    color: rgb(255, 255, 255);
+   
+}
+.one:hover{
+    background-color: rgb(0, 0, 0);
+}
