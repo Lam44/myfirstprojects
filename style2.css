@@ -1,0 +1,40 @@
+/*selector{
+    property:value
+}*/
+
+body{background-image: url(image/jar.jpg); background-size: cover;}
+
+h2{
+    color: blue;
+    text-align: center;
+    border: 5px solid rgba(123 ,77, 158, 0.1);
+    cursor: pointer;
+
+
+}
+
+
+li{
+    text-align: center;
+    list-style-type: none;
+    color: blue;
+    font-size: 20px;
+    font-family: verdana;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.para{
+    line-height: 50px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+
+
+}
+
+
+
+
+
+
+
